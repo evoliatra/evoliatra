@@ -10,7 +10,7 @@
 ---
 
 <div id="badges" align="center">
-  <h1> 📫 How to reach me: </h1> 
+  <p> 📫 How to reach me: </p>
    📱: <a href="https://t.me/marimkhlv">Telegram</a>  |
    📧: <a href="mkhlvmari@gmail.com">Gmail</a>
 </div>
