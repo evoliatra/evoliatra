@@ -9,7 +9,7 @@
 
 ---
 
-### About me:
+## About me:
 - I am engaged in computer graphics and have a little experience in web design |
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
