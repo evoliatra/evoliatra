@@ -8,7 +8,7 @@
 ---
 
 <div id="badges" align="center">
-  ###📫 How to reach me: 
+   ### 📫 How to reach me: </br>
    📱: <a href="https://t.me/marimkhlv">Telegram</a>  |
    📧: <a href="mkhlvmari@gmail.com">Gmail</a>
 </div>
