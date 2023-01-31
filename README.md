@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="200" height="200"/>
 <div id="badges">
-    <a href="https://www.linkedin.com/in/maria-mikhailova-475b04229/">LinkedIn</a> |
-    <a href="https://www.kaggle.com/marimikhailova">Kaggle</a>
+     <a href="https://t.me/marimkhlv">Telegram</a>  |
+    <a href="mkhlvmari@gmail.com">Gmail</a>
 </div>
   
   ---
