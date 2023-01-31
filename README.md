@@ -1,8 +1,6 @@
- ### Hi there 👋
-
 </div>
 <div align="center">
-  <img src="header.png" width="600" height="300"/>
+  <img src="header.png" width="900" height="500"/>
 </div>
 
 ---
