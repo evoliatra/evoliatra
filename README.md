@@ -4,7 +4,7 @@
 </div>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Applied+mathematics+and+informatics+student)](https://git.io/typing-svg)
 ---
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="200" height="200"/>
