@@ -4,11 +4,13 @@
 </div>
 
 ---
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=68A3FF&background=FFFAF700&width=438&height=52&lines=Applied+mathematics+and+informatics+student.)](https://git.io/typing-svg)
+
 ---
 
 <div id="badges" align="center">
-  <h1> 📫 How to reach me: </h1> </br>
+  <h1> 📫 How to reach me: </h1> 
    📱: <a href="https://t.me/marimkhlv">Telegram</a>  |
    📧: <a href="mkhlvmari@gmail.com">Gmail</a>
 </div>
