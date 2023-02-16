@@ -27,7 +27,7 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evoliatra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evoliatra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
