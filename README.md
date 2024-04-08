@@ -8,7 +8,7 @@
 - Automation of business processes and analytics:
 - AI:
 ---
-Social media:
+## Social media:
 - LinkedIn
 - Kaggle
 - Email
