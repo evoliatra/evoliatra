@@ -8,11 +8,7 @@
 - Automation of business processes and analytics:
 - AI:
 ---
-## Social media:
-- LinkedIn
-- Kaggle
-- Email
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evoliatra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
