@@ -1,12 +1,5 @@
 </div>
-<div align="center">
-  <img src="header.png"/>
-</div>
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=68A3FF&background=FFFAF700&width=438&height=52&lines=Applied+mathematics+and+informatics+student.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Maria+Mikhailova.;Startup+and+engineer.)](https://git.io/typing-svg)
 ---
 
 ## About me:
