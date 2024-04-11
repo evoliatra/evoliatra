@@ -4,9 +4,10 @@
 
 ## About me:
 - Student of automation of technological processes and productions
-- Web development and design:
-- Automation of business processes and analytics:
-- AI:
+- Web development and design.
+- Automation of business processes and analytics.
+- AI.
+- Robotics.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evoliatra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
